@@ -1,0 +1,23 @@
+{
+  "event_id": "42578f3f87db",
+  "event_time": "2026-04-21T10:38:56+07:00",
+  "device_id": "pi5-01",
+  "camera_id": "camera_01",
+  "event_type": "known_face_detected",
+  "person_name": "nguyen",
+  "is_known": true,
+  "person_count": 1,
+  "best_confidence": 0.88720703125,
+  "stream_ok": true,
+  "snapshot_path": "snapshots/2026/04/21/103853_a83382ea9da6_person_detected_Unknown.jpg",
+  "video_path": null,
+  "event_start_ts": 1776742736.384657,
+  "event_last_seen_ts": 1776742753.8131247,
+  "event_duration_sec": 17.428,
+  "created_at": "2026-04-21T10:39:15+07:00",
+  "extra": {
+    "person_count": 1,
+    "stream_ok": true,
+    "camera_id": "camera_01"
+  }
+}

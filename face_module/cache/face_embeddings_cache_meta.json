@@ -1,0 +1,698 @@
+{
+  "db_dir": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db",
+  "file_count": 115,
+  "items": [
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552525508_4cea5c5e405d3e8e5a41983216f124d7.jpg",
+      "size": 431232,
+      "mtime_ns": 1776325108845593590
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552533693_a80d829f37a7eda773aecbac9841e422.jpg",
+      "size": 459333,
+      "mtime_ns": 1776325108977594231
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552537025_8f0c3d3891ece62ccc8c10b6e2e41c2e.jpg",
+      "size": 452162,
+      "mtime_ns": 1776325108969594192
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552558321_97e0428079fa295f97c1e3ed06ee436d.jpg",
+      "size": 662136,
+      "mtime_ns": 1776325110201600173
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552561912_796c21aecdcea41125e901afcc462819.jpg",
+      "size": 450529,
+      "mtime_ns": 1776325109157595104
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552570535_78e7efee95f4508d1aa95c3445918bdd.jpg",
+      "size": 427757,
+      "mtime_ns": 1776325109405596308
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552577113_5cd366f12f2305aa7046672094e2f169.jpg",
+      "size": 470156,
+      "mtime_ns": 1776325109165595143
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552580240_fb38fb7c6f81c98d582024c05d1dd122.jpg",
+      "size": 441067,
+      "mtime_ns": 1776325109217595395
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552593195_897d35f482abc5f48c9a4f92e964d696.jpg",
+      "size": 465243,
+      "mtime_ns": 1776325109469596619
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552600837_f4e4623d6e649dc3dc83c777f3dab5d8.jpg",
+      "size": 620323,
+      "mtime_ns": 1776325110273600522
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552659398_15c7071cee1090a4c83fe42ec3ff6ef6.jpg",
+      "size": 417489,
+      "mtime_ns": 1776325109565597085
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552695164_65541b578442f7b18a18dc1188531d74.jpg",
+      "size": 424530,
+      "mtime_ns": 1776325109609597298
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552702428_eba777389f5aa5754c0642d3b094e87f.jpg",
+      "size": 457729,
+      "mtime_ns": 1776325109641597454
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552713030_7f7212a7573f7318b420372752961c94.jpg",
+      "size": 461014,
+      "mtime_ns": 1776325109677597628
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552728306_58b4fc781f0639cb13a87d8490227ed5.jpg",
+      "size": 451223,
+      "mtime_ns": 1776325109721597842
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552736577_7e43cf5e385a33b47ebe5c639cc5930a.jpg",
+      "size": 433974,
+      "mtime_ns": 1776325109769598075
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552747821_08ed1abf979d5c0ac99814af8324b133.jpg",
+      "size": 448121,
+      "mtime_ns": 1776325109797598211
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552776205_1157d2b49b5b8c2b717f6082a6d833ff.jpg",
+      "size": 435439,
+      "mtime_ns": 1776325109869598560
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552791292_f222d4f1186fcbf03de4e6d2e260d85e.jpg",
+      "size": 431203,
+      "mtime_ns": 1776325109877598599
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552807568_39451dabebc85e0ba5e33676bf5fa794.jpg",
+      "size": 571722,
+      "mtime_ns": 1776325110445601358
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552829231_fe641dfc26c46e84d6feb8e13d58e6a1.jpg",
+      "size": 469590,
+      "mtime_ns": 1776325109945598929
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552861566_1c379aad37ae79319814569caa6f1a11.jpg",
+      "size": 570110,
+      "mtime_ns": 1776325110445601358
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552874439_f209dafcb63c03846c6f1d9be5c0a463.jpg",
+      "size": 616048,
+      "mtime_ns": 1776325110445601358
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552874810_f74cd32103cb3b942ee7440d7e622bb0.jpg",
+      "size": 441880,
+      "mtime_ns": 1776325110025599318
+    },
+    {
+      "person": "dang",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/dang/z7731552877579_d149c504612f66ef01ee024c92fb17dd.jpg",
+      "size": 431318,
+      "mtime_ns": 1776325110113599745
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731506080147_1272f7a4ea10b81c0e7acebed18b76b6.jpg",
+      "size": 647149,
+      "mtime_ns": 1776324365387275138
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731506832641_c3e639a998fd9cd56fc1f4ab82a528e4.jpg",
+      "size": 677928,
+      "mtime_ns": 1776324365455275160
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731506842396_4e3631fad883621849e9c8ca0dfa8a6b.jpg",
+      "size": 652965,
+      "mtime_ns": 1776324365463275162
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731506855620_a54e6dcbd052a589bbca0a3f1d89d449.jpg",
+      "size": 651336,
+      "mtime_ns": 1776324365507275177
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731506860424_d47e02309cc7e6af10ca14144eeeb7be.jpg",
+      "size": 656565,
+      "mtime_ns": 1776324365571275197
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731506873659_a6a8cd5ee43689c4b516fb5709464dc5.jpg",
+      "size": 652631,
+      "mtime_ns": 1776324365631275217
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731507243105_1cd085b50b70db45ca187d8aebe1d362.jpg",
+      "size": 681406,
+      "mtime_ns": 1776324365639275220
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731507263322_cd78da2224dbd5b633f7972464e49f2e.jpg",
+      "size": 644730,
+      "mtime_ns": 1776324365679275233
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731507271125_caec73fe233f83273c0c58cad6053e20.jpg",
+      "size": 641472,
+      "mtime_ns": 1776324365703275240
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731507282153_3cc9881433399313c49041536fa1b603.jpg",
+      "size": 665266,
+      "mtime_ns": 1776324366003275338
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731507284863_fd0ffa495c6c0e649f01760289c5cd16.jpg",
+      "size": 635480,
+      "mtime_ns": 1776324365983275332
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731507301025_66a0307ff94ddd60d6e343d43465e19d.jpg",
+      "size": 617139,
+      "mtime_ns": 1776324365995275336
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731507303505_dd0aa104bee2216943e12cca3a860e28.jpg",
+      "size": 664988,
+      "mtime_ns": 1776324366003275338
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731507385065_83c73c2362215c12bde4fc8a988362f7.jpg",
+      "size": 657268,
+      "mtime_ns": 1776324366063275358
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731507569785_09b9797b1757efd3e6b1bf8e1c2632d1.jpg",
+      "size": 488921,
+      "mtime_ns": 1776324365239275089
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731507739993_ef0098158b1392b5285f2853edfbfdd8.jpg",
+      "size": 530118,
+      "mtime_ns": 1776324366095275369
+    },
+    {
+      "person": "minh_tu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/minh_tu/z7731507783179_5e2b01b098e22e5ac3e71ff933dfeb6d.jpg",
+      "size": 675057,
+      "mtime_ns": 1776324366127275380
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731554855375_16dbc97a5fb68a437c2cce97800692fc.jpg",
+      "size": 465303,
+      "mtime_ns": 1776325094233522976
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731554863429_0f083c1e3cbd64f4f44cf66a9a61da8f.jpg",
+      "size": 445838,
+      "mtime_ns": 1776325094285523227
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731554881880_26aa06906fdcf0a681dfbee9f23eacbc.jpg",
+      "size": 424762,
+      "mtime_ns": 1776325094377523669
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731554906838_28fda76823a25a6956275cf445a6e6da.jpg",
+      "size": 454121,
+      "mtime_ns": 1776325094373523650
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731554913623_b1cec6c3ae9f363e83614feb7a419d66.jpg",
+      "size": 446096,
+      "mtime_ns": 1776325094413523843
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731554916865_c600ddd0d05c46b12340aab39ad9f49f.jpg",
+      "size": 453954,
+      "mtime_ns": 1776325094417523862
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731554931432_62f888df3760d7734d805191a45b5ef8.jpg",
+      "size": 472193,
+      "mtime_ns": 1776325094537524440
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731554957367_c5ec8a3671c0ea237e41d1fa92d2011e.jpg",
+      "size": 445848,
+      "mtime_ns": 1776325094545524478
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731554965286_5707bbbea087fdbf1d00f465635cefaa.jpg",
+      "size": 467303,
+      "mtime_ns": 1776325094553524517
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731554976636_b120f487cdaa75c845230d2350ef20d3.jpg",
+      "size": 436974,
+      "mtime_ns": 1776325094593524709
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731554983919_960795413c7ea4bcfae5f813da1a570d.jpg",
+      "size": 449876,
+      "mtime_ns": 1776325094649524979
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731554992555_07cce062144a5aaa4a555ffc689505f4.jpg",
+      "size": 454623,
+      "mtime_ns": 1776325094661525036
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555002106_934950c77225baf19620fced66726fc9.jpg",
+      "size": 456443,
+      "mtime_ns": 1776325094697525210
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555009375_9f87b2288498655f7eb148ce7c49566b.jpg",
+      "size": 450473,
+      "mtime_ns": 1776325094729525364
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555017965_83388f4b611af48e7198cc4fa739c3e9.jpg",
+      "size": 434995,
+      "mtime_ns": 1776325094893526153
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555024123_a3f9616a16fb95671adc4f6a1b9c0783.jpg",
+      "size": 423808,
+      "mtime_ns": 1776325094885526115
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555038867_571c9691c60860db871965b7bbe977df.jpg",
+      "size": 448669,
+      "mtime_ns": 1776325094901526192
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555043976_29972af92f1108429765b3463a0b631e.jpg",
+      "size": 429322,
+      "mtime_ns": 1776325094917526269
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555052340_b1519a479e3eb888eeceaeb87d112f4f.jpg",
+      "size": 445513,
+      "mtime_ns": 1776325094981526577
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555061705_392d4dc50194d74881d8cb18b8e07ab3.jpg",
+      "size": 436765,
+      "mtime_ns": 1776325094953526442
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555065955_090ab0bf3cef069b04e22f4be2c07ce1.jpg",
+      "size": 436876,
+      "mtime_ns": 1776325095101527154
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555081727_5b15b533fa971658de427b98dd82c257.jpg",
+      "size": 438543,
+      "mtime_ns": 1776325095021526769
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555091837_e4281e5422be28f57ffde2c5c980df5c.jpg",
+      "size": 437869,
+      "mtime_ns": 1776325095041526865
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555109812_463f67ed9f4afe84a4755fef3effcbe3.jpg",
+      "size": 430416,
+      "mtime_ns": 1776325095113527212
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555119720_dae2ff3e3721f0812c8c3766787a4462.jpg",
+      "size": 437840,
+      "mtime_ns": 1776325095161527443
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555125031_af68393d9986d59babe0c1532d2b6a47.jpg",
+      "size": 422001,
+      "mtime_ns": 1776325095337528291
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555132802_f9be57c17bdbf8d3cf0056ccb0b1ce33.jpg",
+      "size": 446277,
+      "mtime_ns": 1776325095369528445
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555135550_aa439e9e9f75da981d502bc99cd7c291.jpg",
+      "size": 439553,
+      "mtime_ns": 1776325095445528811
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555141647_f02893e867f11ca5901f2e12a81dcf70.jpg",
+      "size": 436248,
+      "mtime_ns": 1776325095461528888
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555161573_82efd5f0bead96f101b388213bc31d7c.jpg",
+      "size": 429192,
+      "mtime_ns": 1776325095497529062
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555173607_133fed567458b6767e479740a87c96e6.jpg",
+      "size": 437791,
+      "mtime_ns": 1776325095509529119
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555173945_0a37c2f456bf5c08dc5e1a509174a7ba.jpg",
+      "size": 428694,
+      "mtime_ns": 1776325095533529235
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555191180_c91e52a7a1b040d46fe19ce67bd964a7.jpg",
+      "size": 430667,
+      "mtime_ns": 1776325095625529678
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555201074_7506f77a357734885c487d4703db302e.jpg",
+      "size": 440021,
+      "mtime_ns": 1776325095597529543
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555202122_9ad9dfdfb46e7c6a3b1675dceedcbb8b.jpg",
+      "size": 429843,
+      "mtime_ns": 1776325095669529890
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555212152_bb25beef874f9196de711bffdc200fc1.jpg",
+      "size": 450244,
+      "mtime_ns": 1776325095685529967
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555253235_6ef1a6df647fd773f36457225cf7ea79.jpg",
+      "size": 450120,
+      "mtime_ns": 1776325095725530160
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555265525_8af7c356deb09e5c1b28946842b15c7f.jpg",
+      "size": 436287,
+      "mtime_ns": 1776325095773530391
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555272886_ccb2aa59bffb72350856196a275ab5fd.jpg",
+      "size": 455458,
+      "mtime_ns": 1776325095797530506
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555279734_8e04ae42bc6cac42e7c1b8c69e6a5b49.jpg",
+      "size": 433294,
+      "mtime_ns": 1776325095745530256
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555288372_48bc9c1f372f8a4b0de460fc46375f0a.jpg",
+      "size": 414229,
+      "mtime_ns": 1776325095829530660
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555288648_d57af2b0f6203a5048297a4f3976f243.jpg",
+      "size": 417605,
+      "mtime_ns": 1776325095869530853
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555301662_b8cd95e37c68ff4547e988805f12918e.jpg",
+      "size": 406175,
+      "mtime_ns": 1776325095961531296
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555456758_a1d2815eeba09cd4645cf21e177326b1.jpg",
+      "size": 420705,
+      "mtime_ns": 1776325095941531200
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555510589_e371b0ef5025667e8f661ba77921d6aa.jpg",
+      "size": 619288,
+      "mtime_ns": 1776325096553534149
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555584867_037fc866b66ee6940c5490b7037da3f8.jpg",
+      "size": 428191,
+      "mtime_ns": 1776325095985531412
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731555615499_c95beadf11e152d2bac867cbe35516c5.jpg",
+      "size": 647039,
+      "mtime_ns": 1776325096593534342
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731926726817_c32fde17c2fcf0a37f514a9222fdbe96.jpg",
+      "size": 745564,
+      "mtime_ns": 1776330964371993237
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731926828140_ac94decffef80684044ed95c31183192.jpg",
+      "size": 723875,
+      "mtime_ns": 1776330964539993344
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731926845333_6befccbf1ede65c31f9c0cfb23d6900e.jpg",
+      "size": 709514,
+      "mtime_ns": 1776330964823993523
+    },
+    {
+      "person": "nguyen",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/nguyen/z7731926871279_ba1f6c33311199646e96e7bcabb6e216.jpg",
+      "size": 665326,
+      "mtime_ns": 1776330965055993670
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731630772978_e7a1522deb53dc611f28eeee320f6b67.jpg",
+      "size": 575576,
+      "mtime_ns": 1776326374523126373
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631017096_5f8795f7e59894d42c06ab143854afc8.jpg",
+      "size": 453058,
+      "mtime_ns": 1776326373955122397
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631022236_ef2f0a39b135e4b8e8c6ccd9bd7d33c2.jpg",
+      "size": 463509,
+      "mtime_ns": 1776326374495126177
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631029956_30b944e019cc51f5a271f17fc59094c0.jpg",
+      "size": 602373,
+      "mtime_ns": 1776326374619127045
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631075551_d4bdfbe5b9b71b899ace18972e5403a3.jpg",
+      "size": 640019,
+      "mtime_ns": 1776326374579126765
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631091267_c7d8dd1f80fcb0ab98800efcf009c68b.jpg",
+      "size": 687772,
+      "mtime_ns": 1776326374655127297
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631181732_f436471ffc1ec51011515189548e03e0.jpg",
+      "size": 490993,
+      "mtime_ns": 1776326374055123097
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631281718_b2149caae9dbf8be7ae12c4010c7fe35.jpg",
+      "size": 468481,
+      "mtime_ns": 1776326374071123209
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631287432_e05085a858c8cc485d4690c319348e8c.jpg",
+      "size": 457786,
+      "mtime_ns": 1776326374091123349
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631296021_c18197231d9cec0014a1f40014b34b15.jpg",
+      "size": 599177,
+      "mtime_ns": 1776326374695127577
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631299279_c009e5e754c6542a5c4ee32c74947cd0.jpg",
+      "size": 535668,
+      "mtime_ns": 1776326374731127829
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631312248_9a41feb7d0491495b1c0d1661abf4aaa.jpg",
+      "size": 612792,
+      "mtime_ns": 1776326374783128193
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631335196_c04e45e63493913755fb264aca652fa0.jpg",
+      "size": 616391,
+      "mtime_ns": 1776326374803128333
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631421613_fa75aabf5903ca5ba573e3d761fb42f7.jpg",
+      "size": 609037,
+      "mtime_ns": 1776326374855128697
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631433439_4d5663bff8229b79f77c2237f66493a7.jpg",
+      "size": 646615,
+      "mtime_ns": 1776326374871128809
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631541875_9a148916fc80e497874febe85b99f0cb.jpg",
+      "size": 533910,
+      "mtime_ns": 1776326374891128949
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631550001_3711201ba2814eb667ef7234b7f77c6a.jpg",
+      "size": 470288,
+      "mtime_ns": 1776326374327125001
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631557637_d6deda0a1fb897a95bccd54f4e9c7c4a.jpg",
+      "size": 642200,
+      "mtime_ns": 1776326374935129257
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631593578_6d31c804e920b52aec161aa1cb48393c.jpg",
+      "size": 492008,
+      "mtime_ns": 1776326374403125533
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631608574_fadeff7edd934c490bb25aec7dbf1788.jpg",
+      "size": 605786,
+      "mtime_ns": 1776326374955129397
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631634854_a268588dc198175e2e28096c01fd9451.jpg",
+      "size": 587892,
+      "mtime_ns": 1776326374971129509
+    },
+    {
+      "person": "thu",
+      "path": "/home/cs18tnt/Desktop/ai-camera/face_module/face_db/thu/z7731631645639_174e99b870382a5c91ea400696f4bdd7.jpg",
+      "size": 666720,
+      "mtime_ns": 1776326374983129593
+    }
+  ],
+  "model_name": "buffalo_s",
+  "det_size": 320
+}
