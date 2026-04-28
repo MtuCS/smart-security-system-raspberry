@@ -1,0 +1,23 @@
+{
+  "event_id": "f3c6c5f020c8",
+  "event_time": "2026-04-23T17:06:43+07:00",
+  "device_id": "pi5-01",
+  "camera_id": "camera_01",
+  "event_type": "person_detected",
+  "person_name": "Unknown",
+  "is_known": false,
+  "person_count": 1,
+  "best_confidence": 0.41162109375,
+  "stream_ok": true,
+  "snapshot_path": "snapshots/2026/04/23/170626_01e18a900fa9_person_detected_Unknown.jpg",
+  "video_path": null,
+  "event_start_ts": 1776938803.2180197,
+  "event_last_seen_ts": 1776938803.386283,
+  "event_duration_sec": 0.168,
+  "created_at": "2026-04-23T17:06:45+07:00",
+  "extra": {
+    "person_count": 1,
+    "stream_ok": true,
+    "camera_id": "camera_01"
+  }
+}

@@ -1,0 +1,23 @@
+{
+  "event_id": "434de572c80c",
+  "event_time": "2026-04-23T17:32:07+07:00",
+  "device_id": "pi5-01",
+  "camera_id": "camera_01",
+  "event_type": "known_face_detected",
+  "person_name": "minh_tu",
+  "is_known": true,
+  "person_count": 1,
+  "best_confidence": 0.8232421875,
+  "stream_ok": true,
+  "snapshot_path": "snapshots/2026/04/23/173207_434de572c80c_person_detected_Unknown.jpg",
+  "video_path": null,
+  "event_start_ts": 1776940327.7817125,
+  "event_last_seen_ts": 1776940628.1506126,
+  "event_duration_sec": 300.369,
+  "created_at": "2026-04-23T17:37:10+07:00",
+  "extra": {
+    "person_count": 1,
+    "stream_ok": true,
+    "camera_id": "camera_01"
+  }
+}
