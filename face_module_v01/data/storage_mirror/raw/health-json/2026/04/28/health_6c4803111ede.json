@@ -1,0 +1,13 @@
+{
+  "health_id": "health_6c4803111ede",
+  "health_time": "2026-04-28T10:48:26+07:00",
+  "health_ts": 1777348106.6057837,
+  "device_id": "pi5-01",
+  "camera_id": "camera_01",
+  "fps": 0.0,
+  "cpu_percent": 59.09,
+  "ram_percent": 38.3,
+  "temperature_c": 48.5,
+  "stream_ok": false,
+  "created_at": "2026-04-28T10:48:26+07:00"
+}

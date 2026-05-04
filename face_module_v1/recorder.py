@@ -19,9 +19,11 @@ class BufferedFrame:
 
 
 class EventRecorder:
-    def __init__(self, base_dir=None, fps=None, pre_roll_seconds=None, post_roll_seconds=None):
+    def __init__(self, base_dir=None, camera_id: str = "camera", fps=None, pre_roll_seconds=None, post_roll_seconds=None):
         self.enabled = getattr(config, "ENABLE_RECORDING", True)
-        self.events_dir = Path(base_dir or getattr(config, "EVENTS_DIR", "data/events"))
+        self.camera_id = camera_id
+        root = Path(base_dir or getattr(config, "EVENTS_DIR", "data/events"))
+        self.events_dir = root / camera_id
         self.events_dir.mkdir(parents=True, exist_ok=True)
         self.fps = int(fps or getattr(config, "EVENT_VIDEO_FPS", 12))
         self.pre_roll_seconds = float(pre_roll_seconds or getattr(config, "EVENT_PRE_ROLL_SECONDS", 5.0))
@@ -46,7 +48,7 @@ class EventRecorder:
             self._close_writer()
 
     def start_event(self, event, trigger_frame: np.ndarray):
-        if not self.enabled:
+        if not self.enabled or trigger_frame is None:
             return None
         if self.writer is not None:
             self.active_record_until = max(self.active_record_until, time.time() + self.post_roll_seconds)
@@ -74,9 +76,7 @@ class EventRecorder:
         for item in self.buffer:
             out = item.frame if item.frame.shape[1::-1] == self.frame_size else cv2.resize(item.frame, self.frame_size)
             self.writer.write(out)
-
-        trigger_out = trigger_frame if trigger_frame.shape[1::-1] == self.frame_size else cv2.resize(trigger_frame, self.frame_size)
-        self.writer.write(trigger_out)
+        self.writer.write(trigger_frame)
 
         self.last_saved_paths = {"snapshot_path": str(snapshot_path), "video_path": str(video_path)}
         return self.last_saved_paths

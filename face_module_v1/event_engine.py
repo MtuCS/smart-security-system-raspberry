@@ -6,8 +6,6 @@ from collections import defaultdict
 from dataclasses import dataclass, field
 from typing import Any, Dict, Optional
 
-from face_module_v1.exporter import LocalExporter
-
 
 @dataclass
 class ActiveEvent:
@@ -32,7 +30,6 @@ class EventEngine:
         end_absence_seconds: float = 2.0,
         start_cooldown_seconds: float = 1.5,
         min_update_interval_seconds: float = 0.8,
-        exporter: Optional[LocalExporter] = None,
     ):
         self.camera_id = camera_id
         self.start_confirm_frames = max(1, int(start_confirm_frames))
@@ -46,7 +43,6 @@ class EventEngine:
         self.presence_counter: int = 0
         self.identity_counter: Dict[str, int] = defaultdict(int)
         self._overlay_text: str = "EVENT: none"
-        self.exporter = exporter
 
     def current_overlay_text(self) -> str:
         return self._overlay_text
@@ -127,16 +123,8 @@ class EventEngine:
             return
         now = time.time()
         if (now - self.active_event.last_seen_ts) >= self.end_absence_seconds:
-            event = self.active_event
-            print(f"[EVENT END] {event.event_type}: {event.person_name}")
-            recorder.mark_update(event)
-            recorder_paths = getattr(recorder, "last_saved_paths", None)
-            if self.exporter is not None:
-                try:
-                    exported = self.exporter.export_event(event, recorder_paths=recorder_paths)
-                    print(f"[EXPORT EVENT] {exported}")
-                except Exception as e:
-                    print(f"[WARN] event export failed: {e}")
+            print(f"[EVENT END] {self.active_event.event_type}: {self.active_event.person_name}")
+            recorder.mark_update(self.active_event)
             self.active_event = None
             self._overlay_text = "EVENT: none"
             self._reset_pending()
